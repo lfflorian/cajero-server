@@ -1,0 +1,7 @@
+c:\users\lflorian\source\repos\cajero-server\cajero-server\bin\Debug\cajero-server.exe.config
+c:\users\lflorian\source\repos\cajero-server\cajero-server\bin\Debug\cajero-server.exe
+c:\users\lflorian\source\repos\cajero-server\cajero-server\bin\Debug\cajero-server.pdb
+c:\users\lflorian\source\repos\cajero-server\cajero-server\obj\Debug\cajero-server.csprojResolveAssemblyReference.cache
+c:\users\lflorian\source\repos\cajero-server\cajero-server\obj\Debug\cajero-server.csproj.CoreCompileInputs.cache
+c:\users\lflorian\source\repos\cajero-server\cajero-server\obj\Debug\cajero-server.exe
+c:\users\lflorian\source\repos\cajero-server\cajero-server\obj\Debug\cajero-server.pdb
